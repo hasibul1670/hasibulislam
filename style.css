@@ -44,7 +44,11 @@
     height: 25px;
   }
 
-
+.btn1{
+  height: 2.5rem;
+  width: 10rem;
+  border-radius: 1px 60px;
+}
 /* button section code end*/
 
 
